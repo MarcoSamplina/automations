@@ -1,1 +1,697 @@
-
+[
+  {
+    "slug": "seo-para-startups",
+    "url": "/seo/seo-para-startups/",
+    "canonical": "https://growth-digital.es/seo/seo-para-startups/",
+    "meta_title": "SEO para Startups: Crecimiento Orgánico | Growth Digital",
+    "meta_description": "SEO adaptado a startups: estrategia de crecimiento orgánico escalable enfocada en construir visibilidad sostenible.",
+    "h1": "SEO para startups",
+    "hero_paragraph": "Las startups necesitan visibilidad sin depender solo de publicidad. El SEO genera tráfico orgánico escalable que crece con tu negocio.",
+    "seccion_1_h2": "Por qué el SEO es clave para startups",
+    "seccion_1_text": "Las startups compiten con empresas consolidadas con más presupuesto y recursos. El SEO te permite posicionarte en búsquedas relevantes sin depender de inversión constante en ads. Es un activo que crece con el tiempo.",
+    "seccion_2_h2": "Cómo trabajamos el SEO para startups",
+    "seccion_2_paso_1": "Estrategia enfocada: identificamos las keywords que realmente importan para tu modelo de negocio y audiencia objetivo, evitando dispersión de esfuerzos.",
+    "seccion_2_paso_2": "Ejecución ágil: trabajamos con metodologías ágiles adaptadas a startups, priorizando mejoras que impactan rápido sin grandes inversiones.",
+    "seccion_2_paso_3": "Escalabilidad: construimos una base SEO sólida que puedes escalar cuando crezcas, con procesos y herramientas que crecen contigo.",
+    "seccion_3_h2": "En qué se diferencia nuestro enfoque SEO",
+    "seccion_3_text": "Trabajamos el SEO como sistema integrado, no como acciones aisladas. Combinamos análisis técnico, estrategia de contenido y construcción de autoridad de forma coordinada, adaptando cada elemento al contexto específico de tu startup.",
+    "seccion_4_h2": "Qué suele incluir un proyecto de SEO para startups",
+    "seccion_4_item_1": "Análisis inicial del estado técnico y del mercado competitivo",
+    "seccion_4_item_2": "Definición de prioridades según tu modelo de negocio y recursos disponibles",
+    "seccion_4_item_3": "Optimización técnica de páginas clave y estructura del sitio",
+    "seccion_4_item_4": "Creación de contenido estratégico adaptado a tu audiencia objetivo",
+    "seccion_4_item_5": "Construcción de autoridad mediante enlaces y menciones relevantes",
+    "seccion_4_item_6": "Seguimiento continuo y ajustes basados en resultados y cambios del mercado",
+    "faq_1_q": "¿Cómo trabajáis el SEO?",
+    "faq_1_a": "Trabajamos el SEO para startups integrando análisis técnico, estrategia de contenido y construcción de autoridad. Priorizamos mejoras que impactan rápido y construimos una base escalable adaptada a tu modelo de negocio.",
+    "faq_2_q": "¿Cuánto tiempo tarda el SEO en dar resultados?",
+    "faq_2_a": "Las optimizaciones técnicas pueden mostrar mejoras en semanas. El crecimiento sostenible en tráfico orgánico requiere meses de trabajo constante, pero el SEO es un activo que se acumula con el tiempo.",
+    "faq_3_q": "¿El SEO sustituye a la publicidad?",
+    "faq_3_a": "No. El SEO complementa la publicidad. Para startups, el SEO genera tráfico orgánico sin coste por clic, mientras que la publicidad puede acelerar el crecimiento en fases tempranas cuando necesitas resultados más inmediatos.",
+    "faq_4_q": "¿Trabajáis solo en España?",
+    "faq_4_a": "Trabajamos principalmente en España, aunque podemos adaptar nuestra estrategia SEO a startups que operan en otros mercados o tienen modelos de negocio internacionales.",
+    "cta_title": "Empieza a crecer con SEO",
+    "cta_text": "Construimos una estrategia SEO adaptada a tu startup y enfocada en construir visibilidad sostenible.",
+    "cta_button": "Solicitar consulta SEO",
+    "faq_schema": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cómo trabajáis el SEO?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trabajamos el SEO para startups integrando análisis técnico, estrategia de contenido y construcción de autoridad. Priorizamos mejoras que impactan rápido y construimos una base escalable adaptada a tu modelo de negocio."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto tiempo tarda el SEO en dar resultados?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las optimizaciones técnicas pueden mostrar mejoras en semanas. El crecimiento sostenible en tráfico orgánico requiere meses de trabajo constante, pero el SEO es un activo que se acumula con el tiempo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿El SEO sustituye a la publicidad?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. El SEO complementa la publicidad. Para startups, el SEO genera tráfico orgánico sin coste por clic, mientras que la publicidad puede acelerar el crecimiento en fases tempranas cuando necesitas resultados más inmediatos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Trabajáis solo en España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trabajamos principalmente en España, aunque podemos adaptar nuestra estrategia SEO a startups que operan en otros mercados o tienen modelos de negocio internacionales."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "slug": "seo-para-saas",
+    "url": "/seo/seo-para-saas/",
+    "canonical": "https://growth-digital.es/seo/seo-para-saas/",
+    "meta_title": "SEO para SaaS: Tráfico Orgánico Digital | Growth Digital",
+    "meta_description": "SEO especializado en SaaS: estrategia para posicionar tu producto software y generar leads cualificados de forma orgánica.",
+    "h1": "SEO para SaaS",
+    "hero_paragraph": "Los productos SaaS necesitan visibilidad constante para generar trials y conversiones. El SEO posiciona tu software cuando usuarios buscan soluciones como la tuya.",
+    "seccion_1_h2": "Por qué el SEO es esencial para SaaS",
+    "seccion_1_text": "El modelo SaaS depende de un flujo constante de nuevos usuarios. El SEO te posiciona en búsquedas de problemas que tu software resuelve, captando usuarios en diferentes fases del buyer journey sin coste por adquisición recurrente.",
+    "seccion_2_h2": "Cómo trabajamos el SEO para SaaS",
+    "seccion_2_paso_1": "Estrategia de contenido técnico: creamos contenido que responde a búsquedas de problemas que tu SaaS resuelve, posicionándote como solución antes de que busquen tu marca.",
+    "seccion_2_paso_2": "Optimización de landing pages: mejoramos la visibilidad de tus páginas de producto, features y pricing para captar tráfico con intención de compra.",
+    "seccion_2_paso_3": "Link building estratégico: construimos autoridad en tu nicho mediante enlaces de calidad que mejoran tu posicionamiento y credibilidad.",
+    "seccion_3_h2": "En qué se diferencia nuestro enfoque SEO",
+    "seccion_3_text": "Trabajamos el SEO como sistema integrado para SaaS, combinando contenido técnico que responde a problemas reales, optimización de páginas de producto y construcción de autoridad en tu nicho. Todo coordinado para generar tráfico cualificado que convierta.",
+    "seccion_4_h2": "Qué suele incluir un proyecto de SEO para SaaS",
+    "seccion_4_item_1": "Análisis del estado técnico y de la competencia en tu nicho",
+    "seccion_4_item_2": "Estrategia de contenido técnico que responde a problemas que resuelve tu software",
+    "seccion_4_item_3": "Optimización de páginas de producto, features y pricing",
+    "seccion_4_item_4": "Construcción de autoridad mediante enlaces y menciones en medios del sector",
+    "seccion_4_item_5": "Optimización de la experiencia de usuario y velocidad de carga",
+    "seccion_4_item_6": "Seguimiento de métricas de tráfico orgánico y conversión a trials",
+    "faq_1_q": "¿Cómo trabajáis el SEO?",
+    "faq_1_a": "Trabajamos el SEO para SaaS combinando contenido técnico relevante, optimización de páginas de producto y construcción de autoridad mediante link building estratégico. Todo orientado a generar tráfico cualificado que convierta en trials.",
+    "faq_2_q": "¿Cuánto tiempo tarda el SEO en dar resultados?",
+    "faq_2_a": "El SEO para SaaS requiere paciencia. Los primeros resultados en tráfico orgánico suelen verse en varios meses. El contenido técnico y la autoridad se construyen con el tiempo, pero una vez posicionado, el tráfico es sostenible.",
+    "faq_3_q": "¿El SEO sustituye a la publicidad?",
+    "faq_3_a": "No. El SEO y la publicidad se complementan en SaaS. El SEO capta usuarios en fases tempranas de investigación, mientras que la publicidad acelera la adquisición y puede dirigirse a audiencias específicas con mayor precisión.",
+    "faq_4_q": "¿Trabajáis solo en España?",
+    "faq_4_a": "Trabajamos principalmente en España, aunque podemos adaptar nuestra estrategia SEO a productos SaaS que operan en mercados internacionales o tienen audiencia global.",
+    "cta_title": "Posiciona tu SaaS orgánicamente",
+    "cta_text": "Construimos una estrategia SEO que trae tráfico cualificado a tu producto SaaS de forma sostenible.",
+    "cta_button": "Solicitar consulta SEO",
+    "faq_schema": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cómo trabajáis el SEO?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trabajamos el SEO para SaaS combinando contenido técnico relevante, optimización de páginas de producto y construcción de autoridad mediante link building estratégico. Todo orientado a generar tráfico cualificado que convierta en trials."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto tiempo tarda el SEO en dar resultados?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El SEO para SaaS requiere paciencia. Los primeros resultados en tráfico orgánico suelen verse en varios meses. El contenido técnico y la autoridad se construyen con el tiempo, pero una vez posicionado, el tráfico es sostenible."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿El SEO sustituye a la publicidad?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. El SEO y la publicidad se complementan en SaaS. El SEO capta usuarios en fases tempranas de investigación, mientras que la publicidad acelera la adquisición y puede dirigirse a audiencias específicas con mayor precisión."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Trabajáis solo en España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trabajamos principalmente en España, aunque podemos adaptar nuestra estrategia SEO a productos SaaS que operan en mercados internacionales o tienen audiencia global."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "slug": "seo-para-ecommerce",
+    "url": "/seo/seo-para-ecommerce/",
+    "canonical": "https://growth-digital.es/seo/seo-para-ecommerce/",
+    "meta_title": "SEO para Ecommerce: Tráfico Orgánico | Growth Digital",
+    "meta_description": "SEO especializado en tiendas online: optimización de productos, categorías y contenido para aumentar ventas orgánicas.",
+    "h1": "SEO para ecommerce",
+    "hero_paragraph": "Las tiendas online necesitan visibilidad en búsquedas de productos. El SEO posiciona tu ecommerce cuando compradores buscan lo que vendes, generando ventas sin coste por clic.",
+    "seccion_1_h2": "Por qué el SEO es fundamental para ecommerce",
+    "seccion_1_text": "El ecommerce compite en un mercado saturado donde la visibilidad marca la diferencia. El SEO te hace aparecer en búsquedas de productos, categorías y necesidades relacionadas, captando compradores con intención de compra sin depender de ads.",
+    "seccion_2_h2": "Cómo trabajamos el SEO para ecommerce",
+    "seccion_2_paso_1": "Optimización de productos y categorías: mejoramos títulos, descripciones, imágenes y datos estructurados de tus productos para posicionarlos en búsquedas relevantes.",
+    "seccion_2_paso_2": "Contenido comercial estratégico: creamos guías de compra, comparativas y contenido que responde a dudas de compradores, posicionándote como referencia.",
+    "seccion_2_paso_3": "Arquitectura y velocidad: optimizamos la estructura de tu tienda, velocidad de carga y experiencia de usuario para mejorar el posicionamiento y reducir el abandono.",
+    "seccion_3_h2": "En qué se diferencia nuestro enfoque SEO",
+    "seccion_3_text": "Trabajamos el SEO para ecommerce como sistema integrado: optimización técnica de productos, contenido comercial relevante y mejora de arquitectura y velocidad. Todo coordinado para aumentar la visibilidad orgánica y reducir el abandono.",
+    "seccion_4_h2": "Qué suele incluir un proyecto de SEO para ecommerce",
+    "seccion_4_item_1": "Auditoría técnica de la tienda y análisis de la competencia",
+    "seccion_4_item_2": "Optimización de productos y categorías con títulos, descripciones y datos estructurados",
+    "seccion_4_item_3": "Mejora de la arquitectura del sitio y velocidad de carga",
+    "seccion_4_item_4": "Creación de contenido comercial como guías de compra y comparativas",
+    "seccion_4_item_5": "Optimización de la experiencia de usuario y reducción del abandono",
+    "seccion_4_item_6": "Seguimiento de posicionamiento de productos y análisis de ventas orgánicas",
+    "faq_1_q": "¿Cómo trabajáis el SEO?",
+    "faq_1_a": "Trabajamos el SEO para ecommerce optimizando productos y categorías, creando contenido comercial relevante y mejorando la arquitectura y velocidad de tu tienda. Todo enfocado en aumentar la visibilidad orgánica de tus productos.",
+    "faq_2_q": "¿Cuánto tiempo tarda el SEO en dar resultados?",
+    "faq_2_a": "Las optimizaciones técnicas pueden mostrar mejoras en semanas. El posicionamiento de productos y categorías requiere meses de trabajo constante, pero el tráfico orgánico es sostenible y sin coste por clic.",
+    "faq_3_q": "¿El SEO sustituye a la publicidad?",
+    "faq_3_a": "No. El SEO y la publicidad se complementan en ecommerce. El SEO capta búsquedas orgánicas y construye autoridad a largo plazo, mientras que la publicidad acelera ventas y permite promocionar productos específicos o campañas.",
+    "faq_4_q": "¿Trabajáis solo en España?",
+    "faq_4_a": "Trabajamos principalmente en España, aunque podemos adaptar nuestra estrategia SEO a tiendas online que operan en otros mercados o tienen catálogos internacionales.",
+    "cta_title": "Aumenta tus ventas orgánicas",
+    "cta_text": "Optimizamos tu ecommerce para posicionar productos y generar tráfico que convierte en ventas.",
+    "cta_button": "Solicitar consulta SEO",
+    "faq_schema": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cómo trabajáis el SEO?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trabajamos el SEO para ecommerce optimizando productos y categorías, creando contenido comercial relevante y mejorando la arquitectura y velocidad de tu tienda. Todo enfocado en aumentar la visibilidad orgánica de tus productos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto tiempo tarda el SEO en dar resultados?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las optimizaciones técnicas pueden mostrar mejoras en semanas. El posicionamiento de productos y categorías requiere meses de trabajo constante, pero el tráfico orgánico es sostenible y sin coste por clic."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿El SEO sustituye a la publicidad?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. El SEO y la publicidad se complementan en ecommerce. El SEO capta búsquedas orgánicas y construye autoridad a largo plazo, mientras que la publicidad acelera ventas y permite promocionar productos específicos o campañas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Trabajáis solo en España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trabajamos principalmente en España, aunque podemos adaptar nuestra estrategia SEO a tiendas online que operan en otros mercados o tienen catálogos internacionales."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "slug": "seo-para-empresas-b2b",
+    "url": "/seo/seo-para-empresas-b2b/",
+    "canonical": "https://growth-digital.es/seo/seo-para-empresas-b2b/",
+    "meta_title": "SEO para Empresas B2B: Leads Orgánicos | Growth Digital",
+    "meta_description": "SEO especializado en B2B: estrategia para posicionar tu empresa y generar leads cualificados mediante contenido técnico y autoridad.",
+    "h1": "SEO para empresas B2B",
+    "hero_paragraph": "Las empresas B2B necesitan visibilidad ante otros negocios que buscan soluciones. El SEO posiciona tu empresa cuando empresas buscan lo que ofreces, generando leads sin coste por adquisición.",
+    "seccion_1_h2": "Por qué el SEO es estratégico para B2B",
+    "seccion_1_text": "El proceso de compra B2B es largo y basado en investigación. El SEO te hace visible cuando empresas investigan soluciones, posicionándote como opción antes del contacto comercial. Es un canal de generación de leads sostenible y escalable.",
+    "seccion_2_h2": "Cómo trabajamos el SEO para empresas B2B",
+    "seccion_2_paso_1": "Contenido técnico y educativo: creamos contenido que responde a problemas y necesidades de empresas, posicionándote como experto y captando búsquedas informativas que luego se convierten en leads.",
+    "seccion_2_paso_2": "Optimización de páginas de servicio: mejoramos la visibilidad de tus servicios y soluciones para aparecer cuando empresas buscan específicamente lo que ofreces.",
+    "seccion_2_paso_3": "Construcción de autoridad: trabajamos link building y menciones en medios del sector para aumentar tu credibilidad y mejorar posiciones en búsquedas competitivas.",
+    "seccion_3_h2": "En qué se diferencia nuestro enfoque SEO",
+    "seccion_3_text": "Trabajamos el SEO B2B como sistema integrado: contenido técnico que responde a problemas reales de empresas, optimización de páginas de servicio y construcción de autoridad mediante link building estratégico. Todo coordinado para generar leads cualificados.",
+    "seccion_4_h2": "Qué suele incluir un proyecto de SEO para empresas B2B",
+    "seccion_4_item_1": "Análisis del estado técnico y del mercado B2B en tu sector",
+    "seccion_4_item_2": "Creación de contenido técnico y educativo que responde a necesidades de empresas",
+    "seccion_4_item_3": "Optimización de páginas de servicio y soluciones",
+    "seccion_4_item_4": "Construcción de autoridad mediante enlaces y menciones en medios del sector",
+    "seccion_4_item_5": "Estrategia de contenido orientada a diferentes fases del buyer journey B2B",
+    "seccion_4_item_6": "Seguimiento de leads orgánicos y análisis del impacto en el proceso de ventas",
+    "faq_1_q": "¿Cómo trabajáis el SEO?",
+    "faq_1_a": "Trabajamos el SEO para empresas B2B creando contenido técnico relevante, optimizando páginas de servicio y construyendo autoridad mediante link building estratégico. Todo orientado a generar leads cualificados de forma orgánica.",
+    "faq_2_q": "¿Cuánto tiempo tarda el SEO en dar resultados?",
+    "faq_2_a": "El SEO B2B requiere tiempo para construir autoridad y posicionar contenido técnico. Los primeros leads orgánicos suelen llegar en varios meses, pero el canal se vuelve cada vez más valioso con el tiempo.",
+    "faq_3_q": "¿El SEO sustituye a la publicidad?",
+    "faq_3_a": "No. El SEO y la publicidad se complementan en B2B. El SEO capta empresas en fases tempranas de investigación, mientras que la publicidad puede dirigirse a audiencias específicas y acelerar la generación de leads en momentos clave.",
+    "faq_4_q": "¿Trabajáis solo en España?",
+    "faq_4_a": "Trabajamos principalmente en España, aunque podemos adaptar nuestra estrategia SEO a empresas B2B que operan en mercados internacionales o tienen clientes en otros países.",
+    "cta_title": "Genera leads B2B orgánicamente",
+    "cta_text": "Construimos una estrategia SEO que posiciona tu empresa B2B y genera leads cualificados de forma sostenible.",
+    "cta_button": "Solicitar consulta SEO",
+    "faq_schema": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cómo trabajáis el SEO?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trabajamos el SEO para empresas B2B creando contenido técnico relevante, optimizando páginas de servicio y construyendo autoridad mediante link building estratégico. Todo orientado a generar leads cualificados de forma orgánica."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto tiempo tarda el SEO en dar resultados?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El SEO B2B requiere tiempo para construir autoridad y posicionar contenido técnico. Los primeros leads orgánicos suelen llegar en varios meses, pero el canal se vuelve cada vez más valioso con el tiempo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿El SEO sustituye a la publicidad?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. El SEO y la publicidad se complementan en B2B. El SEO capta empresas en fases tempranas de investigación, mientras que la publicidad puede dirigirse a audiencias específicas y acelerar la generación de leads en momentos clave."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Trabajáis solo en España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trabajamos principalmente en España, aunque podemos adaptar nuestra estrategia SEO a empresas B2B que operan en mercados internacionales o tienen clientes en otros países."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "slug": "seo-local",
+    "url": "/seo/seo-local/",
+    "canonical": "https://growth-digital.es/seo/seo-local/",
+    "meta_title": "SEO Local: Posiciona tu Negocio | Growth Digital",
+    "meta_description": "SEO local para aparecer en búsquedas cercanas. Optimización de Google Business Profile y estrategia local para atraer clientes de tu zona.",
+    "h1": "SEO local",
+    "hero_paragraph": "El SEO local te hace visible en búsquedas como 'restaurante cerca de mí' o 'dentista en Madrid'. Apareces cuando alguien busca lo que ofreces en tu área.",
+    "seccion_1_h2": "Por qué el SEO local importa para tu negocio",
+    "seccion_1_text": "La mayoría de búsquedas locales terminan en visita física o contacto. Si no apareces en Google Maps o en los resultados locales, pierdes clientes que buscan exactamente lo que ofreces cerca de ellos.",
+    "seccion_2_h2": "Cómo trabajamos el SEO local",
+    "seccion_2_paso_1": "Optimización de Google Business Profile: configuramos y optimizamos tu perfil con información completa, categorías correctas, horarios, fotos y respuestas a reseñas.",
+    "seccion_2_paso_2": "Señales de localidad: trabajamos citas locales consistentes en directorios, referencias en contenido y optimización de datos estructurados para reforzar tu ubicación.",
+    "seccion_2_paso_3": "Contenido local relevante: creamos páginas y contenido optimizado para búsquedas locales específicas de tu zona y servicios.",
+    "seccion_3_h2": "En qué se diferencia nuestro enfoque SEO",
+    "seccion_3_text": "Trabajamos el SEO local como sistema integrado: optimización de Google Business Profile, construcción de señales de localidad consistentes y creación de contenido local relevante. Todo coordinado para reforzar tu presencia local y aparecer cuando te buscan cerca.",
+    "seccion_4_h2": "Qué suele incluir un proyecto de SEO local",
+    "seccion_4_item_1": "Configuración y optimización completa de Google Business Profile",
+    "seccion_4_item_2": "Construcción de señales de localidad consistentes en directorios y web",
+    "seccion_4_item_3": "Creación de contenido local relevante para tu zona y servicios",
+    "seccion_4_item_4": "Optimización de datos estructurados y referencias locales",
+    "seccion_4_item_5": "Gestión de reseñas y respuestas a clientes",
+    "seccion_4_item_6": "Seguimiento de visibilidad en Google Maps y resultados locales",
+    "faq_1_q": "¿Cómo trabajáis el SEO?",
+    "faq_1_a": "Trabajamos el SEO local optimizando tu Google Business Profile, construyendo señales de localidad consistentes en directorios y web, y creando contenido relevante para búsquedas locales de tu zona.",
+    "faq_2_q": "¿Cuánto tiempo tarda el SEO en dar resultados?",
+    "faq_2_a": "El SEO local puede mostrar mejoras en visibilidad en Google Maps y resultados locales en semanas. Las posiciones en búsquedas locales suelen estabilizarse en varios meses con trabajo constante.",
+    "faq_3_q": "¿El SEO sustituye a la publicidad?",
+    "faq_3_a": "No. El SEO local te hace aparecer orgánicamente en búsquedas locales y Google Maps, pero la publicidad local puede complementar para acelerar resultados o captar más visibilidad en momentos clave.",
+    "faq_4_q": "¿Trabajáis solo en España?",
+    "faq_4_a": "Trabajamos principalmente en España, aunque podemos adaptar nuestra estrategia de SEO local a negocios que operan en otras zonas o tienen múltiples ubicaciones.",
+    "cta_title": "Posiciona tu negocio localmente",
+    "cta_text": "Te ayudamos a aparecer cuando alguien busca lo que ofreces en tu zona.",
+    "cta_button": "Solicitar consulta SEO local",
+    "faq_schema": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cómo trabajáis el SEO?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trabajamos el SEO local optimizando tu Google Business Profile, construyendo señales de localidad consistentes en directorios y web, y creando contenido relevante para búsquedas locales de tu zona."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto tiempo tarda el SEO en dar resultados?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El SEO local puede mostrar mejoras en visibilidad en Google Maps y resultados locales en semanas. Las posiciones en búsquedas locales suelen estabilizarse en varios meses con trabajo constante."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿El SEO sustituye a la publicidad?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. El SEO local te hace aparecer orgánicamente en búsquedas locales y Google Maps, pero la publicidad local puede complementar para acelerar resultados o captar más visibilidad en momentos clave."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Trabajáis solo en España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trabajamos principalmente en España, aunque podemos adaptar nuestra estrategia de SEO local a negocios que operan en otras zonas o tienen múltiples ubicaciones."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "slug": "seo-tecnico",
+    "url": "/seo/seo-tecnico/",
+    "canonical": "https://growth-digital.es/seo/seo-tecnico/",
+    "meta_title": "SEO Técnico: Optimización Web | Growth Digital",
+    "meta_description": "Auditoría y optimización técnica de tu sitio web. Mejora velocidad, indexación y estructura para posicionar mejor en Google.",
+    "h1": "SEO técnico",
+    "hero_paragraph": "Auditamos y corregimos los aspectos técnicos que impiden que Google rastree e indexe correctamente tu sitio. Sin mejoras técnicas, el mejor contenido no posiciona.",
+    "seccion_1_h2": "Por qué el SEO técnico es la base de todo",
+    "seccion_1_text": "Google necesita acceder, entender e indexar tu web para posicionarla. Errores técnicos bloquean el rastreo, ralentizan la carga o impiden la indexación. El SEO técnico corrige estos problemas antes de trabajar contenido o enlaces.",
+    "seccion_2_h2": "Cómo trabajamos el SEO técnico",
+    "seccion_2_paso_1": "Auditoría técnica completa: analizamos velocidad, estructura de URLs, robots.txt, sitemap, código de estado, redirecciones, HTTPS, Core Web Vitals y arquitectura del sitio.",
+    "seccion_2_paso_2": "Priorización y corrección: identificamos los problemas que más impactan el posicionamiento y los corregimos siguiendo un orden de prioridad basado en impacto y esfuerzo.",
+    "seccion_2_paso_3": "Monitoreo continuo: implementamos herramientas de seguimiento para detectar nuevos problemas técnicos y mantener el rendimiento óptimo del sitio.",
+    "seccion_3_h2": "En qué se diferencia nuestro enfoque SEO",
+    "seccion_3_text": "Trabajamos el SEO técnico como sistema integrado: auditoría completa, priorización de problemas por impacto y monitoreo continuo. No solo corregimos errores puntuales, sino que establecemos procesos para mantener el rendimiento técnico óptimo a largo plazo.",
+    "faq_1_q": "¿Cómo trabajáis el SEO?",
+    "faq_1_a": "Trabajamos el SEO técnico mediante auditorías profundas con herramientas especializadas. Identificamos problemas de rastreo, indexación, velocidad y estructura. Corregimos los errores críticos primero y establecemos monitoreo continuo.",
+    "faq_2_q": "¿Cuánto tiempo tarda el SEO en dar resultados?",
+    "faq_2_a": "Las mejoras técnicas suelen reflejarse en semanas o meses, dependiendo de la gravedad de los problemas y la frecuencia de rastreo de Google. Los cambios en velocidad e indexación pueden verse antes que las mejoras en posiciones.",
+    "faq_3_q": "¿El SEO sustituye a la publicidad?",
+    "faq_3_a": "No. El SEO técnico optimiza la infraestructura para que Google pueda rastrear e indexar tu sitio correctamente. Es la base necesaria, pero no sustituye a la publicidad ni al trabajo de contenido y enlaces.",
+    "faq_4_q": "¿Trabajáis solo en España?",
+    "faq_4_a": "Trabajamos principalmente en España, aunque podemos adaptar nuestras auditorías técnicas a proyectos internacionales si el sitio está dirigido a otros mercados.",
+    "cta_title": "Audita la parte técnica de tu web",
+    "cta_text": "Identificamos los problemas técnicos que impiden que tu sitio posicione correctamente.",
+    "cta_button": "Solicitar auditoría técnica",
+    "faq_schema": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cómo trabajáis el SEO?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trabajamos el SEO técnico mediante auditorías profundas con herramientas especializadas. Identificamos problemas de rastreo, indexación, velocidad y estructura. Corregimos los errores críticos primero y establecemos monitoreo continuo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto tiempo tarda el SEO en dar resultados?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las mejoras técnicas suelen reflejarse en semanas o meses, dependiendo de la gravedad de los problemas y la frecuencia de rastreo de Google. Los cambios en velocidad e indexación pueden verse antes que las mejoras en posiciones."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿El SEO sustituye a la publicidad?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. El SEO técnico optimiza la infraestructura para que Google pueda rastrear e indexar tu sitio correctamente. Es la base necesaria, pero no sustituye a la publicidad ni al trabajo de contenido y enlaces."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Trabajáis solo en España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trabajamos principalmente en España, aunque podemos adaptar nuestras auditorías técnicas a proyectos internacionales si el sitio está dirigido a otros mercados."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "slug": "auditoria-seo",
+    "url": "/seo/auditoria-seo/",
+    "canonical": "https://growth-digital.es/seo/auditoria-seo/",
+    "meta_title": "Auditoría SEO: Análisis Completo Web | Growth Digital",
+    "meta_description": "Auditoría SEO profesional: identificamos problemas técnicos, de contenido y de enlaces que impiden que tu sitio posicione correctamente.",
+    "h1": "Auditoría SEO",
+    "hero_paragraph": "Una auditoría SEO identifica todos los problemas que bloquean tu posicionamiento. Sin saber qué falla, no puedes mejorar. Te mostramos exactamente qué corregir.",
+    "seccion_1_h2": "Por qué necesitas una auditoría SEO",
+    "seccion_1_text": "Si tu web no posiciona o ha perdido posiciones, hay razones concretas. La auditoría SEO identifica problemas técnicos, de contenido, enlaces o estructura que impiden el posicionamiento. Es el punto de partida para cualquier estrategia SEO.",
+    "seccion_2_h2": "Cómo trabajamos la auditoría SEO",
+    "seccion_2_paso_1": "Análisis técnico completo: revisamos velocidad, indexación, estructura de URLs, redirecciones, HTTPS, Core Web Vitals, robots.txt, sitemap y todos los aspectos técnicos que afectan el SEO.",
+    "seccion_2_paso_2": "Análisis de contenido y keywords: evaluamos qué contenido tienes, cómo está optimizado, qué keywords posicionas y cuáles deberías posicionar según tu negocio y competencia.",
+    "seccion_2_paso_3": "Informe y plan de acción: te entregamos un informe detallado con todos los problemas encontrados, priorizados por impacto, y un plan de acción claro para corregirlos.",
+    "seccion_3_h2": "En qué se diferencia nuestro enfoque SEO",
+    "seccion_3_text": "Trabajamos la auditoría SEO como sistema integrado: análisis técnico completo, evaluación de contenido y keywords, y análisis de enlaces y estructura. No solo identificamos problemas, sino que priorizamos por impacto y entregamos un plan de acción claro y ejecutable.",
+    "faq_1_q": "¿Cómo trabajáis el SEO?",
+    "faq_1_a": "Trabajamos la auditoría SEO mediante análisis técnico completo, evaluación de contenido y keywords, y análisis de enlaces y estructura. Te entregamos un informe detallado con problemas priorizados y un plan de acción claro.",
+    "faq_2_q": "¿Cuánto tiempo tarda el SEO en dar resultados?",
+    "faq_2_a": "Una auditoría SEO se completa en días o semanas dependiendo del tamaño de tu sitio. Los resultados de las correcciones que hagas basándote en la auditoría dependerán de la gravedad de los problemas y el tiempo que inviertas en corregirlos.",
+    "faq_3_q": "¿El SEO sustituye a la publicidad?",
+    "faq_3_a": "No. La auditoría SEO identifica problemas que impiden el posicionamiento orgánico. Es el primer paso para mejorar tu SEO, pero no sustituye a la publicidad ni al trabajo continuo de contenido y enlaces.",
+    "faq_4_q": "¿Trabajáis solo en España?",
+    "faq_4_a": "Trabajamos principalmente en España, aunque podemos realizar auditorías SEO para sitios que operan en otros mercados o tienen alcance internacional.",
+    "cta_title": "Audita tu web ahora",
+    "cta_text": "Identificamos todos los problemas que impiden que tu sitio posicione y te damos un plan claro para corregirlos.",
+    "cta_button": "Solicitar auditoría SEO",
+    "faq_schema": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cómo trabajáis el SEO?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trabajamos la auditoría SEO mediante análisis técnico completo, evaluación de contenido y keywords, y análisis de enlaces y estructura. Te entregamos un informe detallado con problemas priorizados y un plan de acción claro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto tiempo tarda el SEO en dar resultados?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Una auditoría SEO se completa en días o semanas dependiendo del tamaño de tu sitio. Los resultados de las correcciones que hagas basándote en la auditoría dependerán de la gravedad de los problemas y el tiempo que inviertas en corregirlos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿El SEO sustituye a la publicidad?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. La auditoría SEO identifica problemas que impiden el posicionamiento orgánico. Es el primer paso para mejorar tu SEO, pero no sustituye a la publicidad ni al trabajo continuo de contenido y enlaces."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Trabajáis solo en España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trabajamos principalmente en España, aunque podemos realizar auditorías SEO para sitios que operan en otros mercados o tienen alcance internacional."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "slug": "seo-para-generar-leads",
+    "url": "/seo/seo-para-generar-leads/",
+    "canonical": "https://growth-digital.es/seo/seo-para-generar-leads/",
+    "meta_title": "SEO para Generar Leads: Tráfico Orgánico | Growth Digital",
+    "meta_description": "SEO enfocado en generación de leads: estrategia para posicionar contenido y páginas que captan contactos cualificados de forma orgánica.",
+    "h1": "SEO para generar leads",
+    "hero_paragraph": "El SEO puede generar leads cualificados de forma orgánica. Posicionamos contenido y páginas que captan contactos cuando alguien busca lo que ofreces.",
+    "seccion_1_h2": "Por qué el SEO es efectivo para generar leads",
+    "seccion_1_text": "El SEO te posiciona cuando personas buscan soluciones a problemas que tu negocio resuelve. A diferencia de la publicidad, el tráfico orgánico no tiene coste por clic y capta usuarios en diferentes fases del proceso de compra, generando leads de forma sostenible.",
+    "seccion_2_h2": "Cómo trabajamos el SEO para generar leads",
+    "seccion_2_paso_1": "Contenido orientado a conversión: creamos contenido que responde a búsquedas de problemas que resuelves, con llamadas a la acción claras y formularios estratégicos que captan leads cualificados.",
+    "seccion_2_paso_2": "Optimización de landing pages: mejoramos la visibilidad de tus páginas de servicio o producto para aparecer cuando alguien busca específicamente lo que ofreces, aumentando la probabilidad de conversión.",
+    "seccion_2_paso_3": "Estrategia de keywords comerciales: nos enfocamos en keywords con intención de compra o contacto, priorizando búsquedas que generan leads sobre tráfico genérico sin intención.",
+    "seccion_3_h2": "En qué se diferencia nuestro enfoque SEO",
+    "seccion_3_text": "Trabajamos el SEO para generar leads como sistema integrado: contenido orientado a conversión, optimización de landing pages y estrategia de keywords comerciales. Todo coordinado para captar tráfico con intención de contacto o compra, no solo visitas.",
+    "faq_1_q": "¿Cómo trabajáis el SEO?",
+    "faq_1_a": "Trabajamos el SEO para generar leads creando contenido orientado a conversión, optimizando landing pages de servicio y enfocándonos en keywords comerciales con intención de contacto o compra.",
+    "faq_2_q": "¿Cuánto tiempo tarda el SEO en dar resultados?",
+    "faq_2_a": "El SEO para generar leads requiere tiempo para posicionar contenido y páginas. Los primeros leads orgánicos suelen llegar en varios meses, pero el canal se vuelve cada vez más valioso y sostenible con el tiempo.",
+    "faq_3_q": "¿El SEO sustituye a la publicidad?",
+    "faq_3_a": "No. El SEO y la publicidad se complementan para generar leads. El SEO capta usuarios en fases tempranas de investigación, mientras que la publicidad puede dirigirse a audiencias específicas y acelerar la generación de leads en momentos clave.",
+    "faq_4_q": "¿Trabajáis solo en España?",
+    "faq_4_a": "Trabajamos principalmente en España, aunque podemos adaptar nuestra estrategia SEO para generar leads a negocios que operan en otros mercados o tienen audiencia internacional.",
+    "cta_title": "Genera leads con SEO",
+    "cta_text": "Construimos una estrategia SEO enfocada en generar leads cualificados de forma orgánica y sostenible.",
+    "cta_button": "Solicitar consulta SEO",
+    "faq_schema": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cómo trabajáis el SEO?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trabajamos el SEO para generar leads creando contenido orientado a conversión, optimizando landing pages de servicio y enfocándonos en keywords comerciales con intención de contacto o compra."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto tiempo tarda el SEO en dar resultados?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El SEO para generar leads requiere tiempo para posicionar contenido y páginas. Los primeros leads orgánicos suelen llegar en varios meses, pero el canal se vuelve cada vez más valioso y sostenible con el tiempo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿El SEO sustituye a la publicidad?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. El SEO y la publicidad se complementan para generar leads. El SEO capta usuarios en fases tempranas de investigación, mientras que la publicidad puede dirigirse a audiencias específicas y acelerar la generación de leads en momentos clave."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Trabajáis solo en España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trabajamos principalmente en España, aunque podemos adaptar nuestra estrategia SEO para generar leads a negocios que operan en otros mercados o tienen audiencia internacional."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "slug": "seo-para-nuevos-proyectos",
+    "url": "/seo/seo-para-nuevos-proyectos/",
+    "canonical": "https://growth-digital.es/seo/seo-para-nuevos-proyectos/",
+    "meta_title": "SEO para Nuevos Proyectos: Base Inicial | Growth Digital",
+    "meta_description": "SEO para proyectos nuevos: construimos la base técnica y de contenido desde cero para posicionar tu web desde el inicio.",
+    "h1": "SEO para nuevos proyectos",
+    "hero_paragraph": "Los proyectos nuevos necesitan una base SEO correcta desde el principio. Evitamos errores que luego cuesta corregir y construimos una estructura que posiciona desde el inicio.",
+    "seccion_1_h2": "Por qué el SEO importa desde el inicio",
+    "seccion_1_text": "Construir una web sin pensar en SEO genera problemas técnicos y de estructura que luego cuesta corregir. Empezar con SEO desde el principio evita errores costosos y acelera el tiempo hasta conseguir visibilidad orgánica.",
+    "seccion_2_h2": "Cómo trabajamos el SEO para nuevos proyectos",
+    "seccion_2_paso_1": "Arquitectura SEO desde cero: diseñamos la estructura de URLs, categorías y navegación pensando en SEO, evitando problemas técnicos y creando una base sólida para crecer.",
+    "seccion_2_paso_2": "Contenido inicial estratégico: creamos las páginas y contenido esencial optimizado para keywords relevantes, estableciendo una presencia inicial en Google desde el lanzamiento.",
+    "seccion_2_paso_3": "Configuración técnica correcta: configuramos sitemap, robots.txt, datos estructurados, HTTPS y todas las bases técnicas necesarias para que Google rastree e indexe correctamente desde el inicio.",
+    "seccion_3_h2": "En qué se diferencia nuestro enfoque SEO",
+    "seccion_3_text": "Trabajamos el SEO para nuevos proyectos como sistema integrado desde el inicio: arquitectura SEO correcta, contenido inicial estratégico y configuración técnica adecuada. Todo coordinado para evitar errores costosos y acelerar la visibilidad orgánica desde el lanzamiento.",
+    "faq_1_q": "¿Cómo trabajáis el SEO?",
+    "faq_1_a": "Trabajamos el SEO para nuevos proyectos construyendo la arquitectura SEO desde cero, creando contenido inicial estratégico y configurando correctamente todos los aspectos técnicos necesarios para que tu web posicione desde el inicio.",
+    "faq_2_q": "¿Cuánto tiempo tarda el SEO en dar resultados?",
+    "faq_2_a": "En proyectos nuevos, Google necesita tiempo para descubrir e indexar tu sitio. Las primeras indexaciones suelen ocurrir en días o semanas. El posicionamiento en resultados requiere meses de trabajo constante, pero empezar bien acelera el proceso.",
+    "faq_3_q": "¿El SEO sustituye a la publicidad?",
+    "faq_3_a": "No. Para proyectos nuevos, el SEO y la publicidad se complementan. El SEO construye una base sostenible a largo plazo, mientras que la publicidad puede generar tráfico inmediato mientras el SEO empieza a dar resultados.",
+    "faq_4_q": "¿Trabajáis solo en España?",
+    "faq_4_a": "Trabajamos principalmente en España, aunque podemos adaptar nuestra estrategia SEO para nuevos proyectos que se dirigen a otros mercados o tienen alcance internacional desde el inicio.",
+    "cta_title": "Construye tu SEO desde el inicio",
+    "cta_text": "Te ayudamos a construir una base SEO sólida desde el principio, evitando errores costosos y acelerando tu visibilidad orgánica.",
+    "cta_button": "Solicitar consulta SEO",
+    "faq_schema": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cómo trabajáis el SEO?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trabajamos el SEO para nuevos proyectos construyendo la arquitectura SEO desde cero, creando contenido inicial estratégico y configurando correctamente todos los aspectos técnicos necesarios para que tu web posicione desde el inicio."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto tiempo tarda el SEO en dar resultados?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En proyectos nuevos, Google necesita tiempo para descubrir e indexar tu sitio. Las primeras indexaciones suelen ocurrir en días o semanas. El posicionamiento en resultados requiere meses de trabajo constante, pero empezar bien acelera el proceso."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿El SEO sustituye a la publicidad?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Para proyectos nuevos, el SEO y la publicidad se complementan. El SEO construye una base sostenible a largo plazo, mientras que la publicidad puede generar tráfico inmediato mientras el SEO empieza a dar resultados."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Trabajáis solo en España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trabajamos principalmente en España, aunque podemos adaptar nuestra estrategia SEO para nuevos proyectos que se dirigen a otros mercados o tienen alcance internacional desde el inicio."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "slug": "seo-para-webs-que-no-convierten",
+    "url": "/seo/seo-para-webs-que-no-convierten/",
+    "canonical": "https://growth-digital.es/seo/seo-para-webs-que-no-convierten/",
+    "meta_title": "SEO Webs sin Conversión: Optimiza | Growth Digital",
+    "meta_description": "Si tu web tiene tráfico pero no convierte, el problema puede ser SEO. Optimizamos contenido y estructura para atraer tráfico con intención de compra.",
+    "h1": "SEO para webs que no convierten",
+    "hero_paragraph": "Si tu web tiene visitas pero pocas conversiones, puede que estés atrayendo tráfico sin intención. El SEO correcto trae usuarios que buscan lo que ofreces y están listos para convertir.",
+    "seccion_1_h2": "Por qué el SEO puede solucionar la falta de conversión",
+    "seccion_1_text": "Si tu web no convierte, puede que estés posicionando para keywords genéricas sin intención de compra o contacto. El SEO correcto te posiciona cuando alguien busca específicamente lo que ofreces, captando tráfico con intención que convierte mejor.",
+    "seccion_2_h2": "Cómo trabajamos el SEO para webs que no convierten",
+    "seccion_2_paso_1": "Análisis de keywords e intención: revisamos qué keywords posicionas y cambiamos el enfoque hacia búsquedas comerciales con intención de compra o contacto, alejándonos de tráfico genérico.",
+    "seccion_2_paso_2": "Optimización de páginas de conversión: mejoramos la visibilidad y contenido de tus páginas de servicio, producto o contacto para aparecer cuando alguien busca específicamente lo que ofreces.",
+    "seccion_2_paso_3": "Contenido orientado a conversión: creamos contenido que responde a problemas que resuelves y guía hacia la conversión, posicionándote para búsquedas que generan leads o ventas.",
+    "seccion_3_h2": "En qué se diferencia nuestro enfoque SEO",
+    "seccion_3_text": "Trabajamos el SEO para webs que no convierten como sistema integrado: análisis de keywords e intención, optimización de páginas de conversión y contenido orientado a generar leads o ventas. Todo coordinado para atraer tráfico con intención, no solo visitas.",
+    "faq_1_q": "¿Cómo trabajáis el SEO?",
+    "faq_1_a": "Trabajamos el SEO para webs que no convierten analizando y cambiando el enfoque hacia keywords comerciales con intención, optimizando páginas de conversión y creando contenido orientado a generar leads o ventas.",
+    "faq_2_q": "¿Cuánto tiempo tarda el SEO en dar resultados?",
+    "faq_2_a": "Cambiar el enfoque SEO hacia keywords comerciales requiere tiempo para reposicionar. Los primeros cambios en tráfico cualificado pueden verse en varios meses, pero el impacto en conversión suele mejorar antes si el tráfico nuevo tiene más intención.",
+    "faq_3_q": "¿El SEO sustituye a la publicidad?",
+    "faq_3_a": "No. El SEO y la publicidad se complementan. El SEO puede traer tráfico orgánico con intención de forma sostenible, mientras que la publicidad permite dirigirse a audiencias específicas y acelerar la generación de conversiones.",
+    "faq_4_q": "¿Trabajáis solo en España?",
+    "faq_4_a": "Trabajamos principalmente en España, aunque podemos adaptar nuestra estrategia SEO para webs que operan en otros mercados o tienen problemas de conversión en mercados internacionales.",
+    "cta_title": "Convierte tu tráfico en resultados",
+    "cta_text": "Optimizamos tu SEO para atraer tráfico con intención de compra o contacto, mejorando tus conversiones.",
+    "cta_button": "Solicitar consulta SEO",
+    "faq_schema": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cómo trabajáis el SEO?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trabajamos el SEO para webs que no convierten analizando y cambiando el enfoque hacia keywords comerciales con intención, optimizando páginas de conversión y creando contenido orientado a generar leads o ventas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto tiempo tarda el SEO en dar resultados?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cambiar el enfoque SEO hacia keywords comerciales requiere tiempo para reposicionar. Los primeros cambios en tráfico cualificado pueden verse en varios meses, pero el impacto en conversión suele mejorar antes si el tráfico nuevo tiene más intención."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿El SEO sustituye a la publicidad?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. El SEO y la publicidad se complementan. El SEO puede traer tráfico orgánico con intención de forma sostenible, mientras que la publicidad permite dirigirse a audiencias específicas y acelerar la generación de conversiones."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Trabajáis solo en España?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trabajamos principalmente en España, aunque podemos adaptar nuestra estrategia SEO para webs que operan en otros mercados o tienen problemas de conversión en mercados internacionales."
+          }
+        }
+      ]
+    }
+  }
+]
