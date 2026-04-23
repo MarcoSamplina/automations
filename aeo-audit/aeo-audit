@@ -1,0 +1,13 @@
+#!/bin/bash
+# AEO Audit Skill for Claude Code
+# Usage: /aeo-audit "https://example.com" or /aeo-audit "/path/to/file.md"
+
+SKILL_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+NODE_SCRIPT="$SKILL_DIR/aeo-audit-skill.js"
+
+if ! command -v node &> /dev/null; then
+    echo "Error: Node.js required"
+    exit 1
+fi
+
+node "$NODE_SCRIPT" "$@"

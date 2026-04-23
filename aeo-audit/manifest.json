@@ -1,0 +1,9 @@
+{
+  "name": "aeo-audit",
+  "displayName": "AEO Audit",
+  "description": "Audita contenido/documentación para Agentic Engine Optimization. Genera checklist de optimizaciones para agentes de IA.",
+  "version": "1.0.0",
+  "author": "Loginser Team",
+  "license": "MIT",
+  "keywords": ["aeo", "audit", "optimization", "documentation", "agents"]
+}
